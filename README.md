@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Swanson
 - Skills: Java, Python, C, C++, C#, React, Node.js
-- Eagerly seeking new oppertunities
+- Eagerly seeking new opportunities
 - 📫 How to reach me: rpswanson18@gmail.com
 
 <!---
